@@ -1,1 +1,1 @@
-this is landing of fruit website.
+this is landing page of fruit website.
